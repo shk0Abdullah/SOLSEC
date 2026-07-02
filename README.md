@@ -1,6 +1,6 @@
-# 📜 **Smart Contract Auditor**  
+# 📜 **SOLSEC: Smart Contract Auditor**  
 
-🚀 **Smart Contract Auditor** is a powerful tool designed to **analyze Solidity smart contracts** for vulnerabilities using **Slither** and provide AI-powered insights via **LangChain**. With an easy-to-use interface built with **Tailwind CSS & DaisyUI**, this tool helps developers detect security issues in their contracts before they can be exploited.  
+🚀 **SOLSEC** is a powerful tool designed to **analyze Solidity smart contracts** for vulnerabilities using **Slither** and provide AI-powered insights via **LangChain**. With an easy-to-use interface built with **Tailwind CSS & DaisyUI**, this tool helps developers detect security issues in their contracts before they can be exploited.  
 
 ---
 
