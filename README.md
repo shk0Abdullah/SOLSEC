@@ -1,23 +1,23 @@
 # 📜 **SOLSEC: Smart Contract Auditor**  
 
-🚀 **SOLSEC** is a powerful tool designed to **analyze Solidity smart contracts** for vulnerabilities using **Slither** and provide AI-powered insights via **LangChain**. With an easy-to-use interface built with **Tailwind CSS & DaisyUI**, this tool helps developers detect security issues in their contracts before they can be exploited.  
+**SOLSEC** is a powerful tool designed to **analyze Solidity smart contracts** for vulnerabilities using **Slither** and provide AI-powered insights via **LangChain**. With an easy-to-use interface built with **Tailwind CSS & DaisyUI**, this tool helps developers detect security issues in their contracts before they can be exploited.  
 
 ---
 
-## ❗ **Why is this Important?**  
+## **Why is this Important?**  
 
 Every year, **millions of dollars** are stolen from crypto wallets due to security vulnerabilities in smart contracts. Issues like **reentrancy attacks, integer overflows, and access control flaws** have led to devastating hacks.  
 
-### 🔥 **Some Notorious Hacks Due to Vulnerabilities**  
+###  **Some Notorious Hacks Due to Vulnerabilities**  
 - **The DAO Hack (2016) - $60M+ stolen** due to a reentrancy vulnerability.  
 - **Poly Network Hack (2021) - $600M stolen** due to improper access control.  
 - **Nomad Bridge Hack (2022) - $190M lost** due to a simple initialization bug.  
 
-💡 **To prevent such attacks**, I created this Smart Contract Auditor, allowing developers to scan their Solidity contracts **before deploying them on the blockchain**.  
+ **To prevent such attacks**, I created this Smart Contract Auditor, allowing developers to scan their Solidity contracts **before deploying them on the blockchain**.  
 
 ---
 
-## 🛠 **Tech Stack**  
+##  **Tech Stack**  
 
 This project is built using:  
 
@@ -31,7 +31,7 @@ This project is built using:
 
 ---
 
-## ⚡ **Features**  
+##  **Features**  
 
 ✅ **Upload Solidity Smart Contracts** – Instantly scan for vulnerabilities.  
 ✅ **Automated Security Analysis** – Uses Slither to detect issues.  
@@ -42,7 +42,7 @@ This project is built using:
 ---
 
  
-## 🎯 **How it Works**  
+##  **How it Works**  
 
 1. **Upload a Solidity smart contract (.sol file).**  
 2. **Slither scans the contract** for vulnerabilities like:  
@@ -53,9 +53,9 @@ This project is built using:
 3. **The AI Chatbot (LangChain) explains the vulnerabilities** and suggests fixes.  
 4. **Secure your smart contract before deploying it!**  
 
-## 🚀 **How to Use**  
+##  **How to Use**  
 
-### 1️⃣ **Clone the Repository**  
+### 1️ **Clone the Repository**  
 ```bash
 git clone https://github.com/yourusername/smart-contract-auditor.git
 cd smart-contract-auditor
